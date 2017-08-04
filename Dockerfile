@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'boo'
+ENV TEST 'boom'
