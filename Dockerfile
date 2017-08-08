@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'boom'
+ENV TEST 'dockerfile'
