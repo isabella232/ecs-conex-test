@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'heyy'
+ENV TEST 'work maadi'
