@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'okayyy'
+ENV TEST 'exceptions!'
