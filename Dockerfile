@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'sha_tag-hyphenated!'
+ENV TEST 'retire!'
