@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'work hello'
+ENV TEST 'get in'
