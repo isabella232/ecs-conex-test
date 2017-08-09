@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'exceptions!'
+ENV TEST 'sha_tag!'
