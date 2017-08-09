@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'ls'
+ENV TEST 'okayyy'
