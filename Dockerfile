@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'get in'
+ENV TEST 'ls'
