@@ -1,3 +1,3 @@
 FROM ubuntu
 
-env emoji='ʘ‿ʘ'
+env emoji='ಥ_ಥ'
