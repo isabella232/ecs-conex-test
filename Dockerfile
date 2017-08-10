@@ -1,3 +1,3 @@
 FROM ubuntu
 
-env TEST='test'
+env emoji='ʕ•ᴥ•ʔ'
