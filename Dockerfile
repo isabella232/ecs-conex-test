@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'seek'
+ENV TEST 'peek'
