@@ -1,2 +1,2 @@
 FROM ubuntu
-ENV TEST 'retire!'
+ENV TEST 'seek'
