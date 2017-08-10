@@ -1,3 +1,3 @@
 FROM ubuntu
 
-env emoji='ʕ•ᴥ•ʔ'
+env emoji='ᕙ(⇀‸↼‶)ᕗ'
