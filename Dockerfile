@@ -1,3 +1,3 @@
 FROM ubuntu
 
-env emoji='¯\_(⊙︿⊙)_/¯'
+env emoji='ʘ‿ʘ'
